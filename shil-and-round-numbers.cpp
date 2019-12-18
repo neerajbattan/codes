@@ -46,7 +46,7 @@ void create_bit(ll bit[],ll ar[]) {
 }
 
 int main() {
-	ll i,j,k,l,m,ar[100005],bit[100005]={0};
+	ll i,j,k,l,m,ar[200005],bit[200005]={0};
 	int q;
 	cin>>n>>q;
 	for(i=0;i<n;i++)
